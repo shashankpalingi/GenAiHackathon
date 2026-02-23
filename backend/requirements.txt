@@ -1,0 +1,36 @@
+# Drishyamitra - Backend Dependencies
+# Core Framework
+Flask==3.1.0
+Flask-CORS==5.0.1
+Flask-SocketIO==5.5.1
+
+# Database
+SQLAlchemy==2.0.41
+
+# Face Recognition
+deepface==0.0.93
+Pillow==11.2.1
+
+# Machine Learning
+numpy==2.2.6
+scikit-learn==1.7.2
+
+# File Watching (from FileMind)
+watchdog==6.0.0
+
+# Chatbot (Groq)
+groq==0.25.0
+
+# Delivery - Gmail API
+google-api-python-client==2.170.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.1
+
+# Delivery - WhatsApp
+requests==2.32.3
+
+# Environment
+python-dotenv==1.1.0
+
+# Server
+eventlet==0.37.0
